@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Whiteout</title>
+        <item>
+            <title>0.9.1</title>
+            <pubDate>Sun, 11 Jan 2026 18:13:24 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Static-o2/whiteout-releases/releases/download/v0.9.1/Whiteout.Installer.v0.9.1.dmg" length="3214580" type="application/octet-stream" sparkle:edSignature="oetbryq2XxQaBSgbuGGIoHZAVDyQjxYwYKK6SLJ4Azw30b0NTi6bx8Fk5lj7BVIFS41cFUJ47W0V6StJYNL2AA=="/>
+        </item>
+    </channel>
+</rss>
