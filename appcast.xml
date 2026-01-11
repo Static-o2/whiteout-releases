@@ -3,12 +3,12 @@
     <channel>
         <title>Whiteout</title>
         <item>
-            <title>0.9.1</title>
-            <pubDate>Sun, 11 Jan 2026 18:13:24 -0500</pubDate>
+            <title>0.9.2</title>
+            <pubDate>Sun, 11 Jan 2026 18:31:25 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Static-o2/whiteout-releases/releases/download/v0.9.1/Whiteout.Installer.v0.9.1.dmg" length="3214580" type="application/octet-stream" sparkle:edSignature="oetbryq2XxQaBSgbuGGIoHZAVDyQjxYwYKK6SLJ4Azw30b0NTi6bx8Fk5lj7BVIFS41cFUJ47W0V6StJYNL2AA=="/>
+            <enclosure url="https://github.com/Static-o2/whiteout-releases/releases/download/v0.9.2/Whiteout.Installer.v0.9.2.dmg" length="3214358" type="application/octet-stream" sparkle:edSignature="Js2tZ0/f/+X24zk6CI9kDhf6RjtCUurkR00C9r6k7VCZSdQ/7BERyAc5/nPUDcLbO2dPailMEh02ZTyb6qlvDA=="/>
         </item>
     </channel>
 </rss>
